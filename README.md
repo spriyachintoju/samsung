@@ -4,7 +4,8 @@
 1) Install python3
 2) Install selenium
 3) Install Chrome
-4) Install Chromedriver
+4) Install pyyaml
+5) Install Chromedriver
 
 #### Running a file
 Ex: python3 order_phone.py
